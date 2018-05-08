@@ -1,0 +1,11 @@
+C:\Users\Daniel\source\repos\TP2 PG2\TP2 PG2\obj\Debug\Estructuras_Control_Flujo.vbprojResolveAssemblyReference.cache
+C:\Users\Daniel\source\repos\TP2 PG2\TP2 PG2\obj\Debug\TP2_PG2.Resources.resources
+C:\Users\Daniel\source\repos\TP2 PG2\TP2 PG2\obj\Debug\Estructuras_Control_Flujo.vbproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\TP2 PG2\TP2 PG2\obj\Debug\Estructuras_Control_Flujo.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\TP2 PG2\TP2 PG2\bin\Debug\TP2 PG2.exe.config
+C:\Users\Daniel\source\repos\TP2 PG2\TP2 PG2\bin\Debug\TP2 PG2.exe
+C:\Users\Daniel\source\repos\TP2 PG2\TP2 PG2\bin\Debug\TP2 PG2.pdb
+C:\Users\Daniel\source\repos\TP2 PG2\TP2 PG2\bin\Debug\TP2 PG2.xml
+C:\Users\Daniel\source\repos\TP2 PG2\TP2 PG2\obj\Debug\TP2 PG2.exe
+C:\Users\Daniel\source\repos\TP2 PG2\TP2 PG2\obj\Debug\TP2 PG2.xml
+C:\Users\Daniel\source\repos\TP2 PG2\TP2 PG2\obj\Debug\TP2 PG2.pdb
